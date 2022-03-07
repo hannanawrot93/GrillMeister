@@ -1,0 +1,28 @@
+2019-11-24T20:14:57+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 23146496 bytes)
+
+2020-12-10T09:05:47+00:00 CRITICAL Out of memory (allocated 83886080) (tried to allocate 20480 bytes)
+
+2020-12-10T09:06:08+00:00 CRITICAL Out of memory (allocated 81788928) (tried to allocate 102400 bytes)
+
+2020-12-10T09:14:02+00:00 CRITICAL Out of memory (allocated 98566144) (tried to allocate 81920 bytes)
+
+2020-12-10T09:14:35+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 94208 bytes)
+
+2020-12-10T09:18:03+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 81920 bytes)
+
+2020-12-10T09:18:12+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 122880 bytes)
+
+2020-12-10T09:18:29+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 122880 bytes)
+
+2020-12-10T09:21:49+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 380928 bytes)
+
+2020-12-10T19:53:21+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 13358220 bytes)
+
+2020-12-10T20:22:32+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 98304 bytes)
+
+2020-12-10T20:24:16+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 126976 bytes)
+
+2020-12-10T20:24:29+00:00 CRITICAL Out of memory (allocated 75497472) (tried to allocate 126976 bytes)
+
+2020-12-10T20:25:46+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 90112 bytes)
+

@@ -1,0 +1,26 @@
+2020-12-10T08:05:47+00:00 CRITICAL Out of memory (allocated 83886080) (tried to allocate 20480 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
+2020-12-10T08:06:08+00:00 CRITICAL Out of memory (allocated 81788928) (tried to allocate 102400 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
+2020-12-10T08:14:02+00:00 CRITICAL Out of memory (allocated 98566144) (tried to allocate 81920 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
+2020-12-10T08:14:35+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 94208 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
+2020-12-10T08:18:03+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 81920 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
+2020-12-10T08:18:12+00:00 CRITICAL Out of memory (allocated 37748736) (tried to allocate 122880 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 2007
+
+2020-12-10T08:18:29+00:00 CRITICAL Out of memory (allocated 73400320) (tried to allocate 122880 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 2007
+
+2020-12-10T08:21:49+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 380928 bytes) in C:\xampp\htdocs\wp-includes\post-template.php on line 1927
+
+2020-12-10T18:53:21+00:00 CRITICAL Out of memory (allocated 46137344) (tried to allocate 13358220 bytes) in C:\xampp\htdocs\wp-includes\class-wp-image-editor-gd.php on line 96
+
+2020-12-10T19:22:32+00:00 CRITICAL Out of memory (allocated 39845888) (tried to allocate 98304 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
+2020-12-10T19:24:16+00:00 CRITICAL Out of memory (allocated 48234496) (tried to allocate 126976 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 2007
+
+2020-12-10T19:24:29+00:00 CRITICAL Out of memory (allocated 75497472) (tried to allocate 126976 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 2007
+
+2020-12-10T19:25:46+00:00 CRITICAL Out of memory (allocated 85983232) (tried to allocate 90112 bytes) in C:\xampp\htdocs\wp-includes\wp-db.php on line 1972
+
